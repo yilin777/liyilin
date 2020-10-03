@@ -1,0 +1,12 @@
+https://github.com/yilin777/physics-guided-deep-learning.git
+
+https://paperswithcode.com/task/physics-informed-machine-learning/latest
+    A physics-informed neural network for wind turbine main bearing fatigue
+        paper http://www.phmsociety.org/sites/phmsociety.org/files/phm_submission/2019/ijphm_20_003.pdf
+              https://www.researchgate.net/publication/341202887_A_Physics-informed_Neural_Network_for_Wind_Turbine_Main_Bearing_Fatigue
+        code https://github.com/PML-UCF/pinn
+    Physics-informed neural networks for corrosion-fatigue prognosis        
+        code https://github.com/PML-UCF/pinn_corrosion_fatigue      
+    Fleet Prognosis with Physics-informed Recurrent Neural Networks
+        paper https://arxiv.org/pdf/1901.05512v1.pdf
+        code https://github.com/PML-UCF/pinn
